@@ -1,0 +1,137 @@
+run:
+Please select an option below.
+(L)oad
+(S)ave
+(A)dd Car
+(R)emove Car
+(G)et Specific Car
+(Y)ear & Class Display
+(D)isplay Full Inventory
+(Q)uit
+Option: l
+
+Please type inventory file (ignore .txt): inputFile
+
+Inventory Loaded
+
+Please select an option below.
+(L)oad
+(S)ave
+(A)dd Car
+(R)emove Car
+(G)et Specific Car
+(Y)ear & Class Display
+(D)isplay Full Inventory
+(Q)uit
+Option: a
+
+Enter Vehicle ID: TT2019S
+Enter Vehicle Year: 2019
+Enter Vehicle Make: Toyota
+Enter Vehicle Model: Tacoma
+Enter Vehicle Miles: 234723.15
+Enter Vehicle Class: SUV
+Enter Vehicle Price: 99000.00
+
+Car Added!
+
+Please select an option below.
+(L)oad
+(S)ave
+(A)dd Car
+(R)emove Car
+(G)et Specific Car
+(Y)ear & Class Display
+(D)isplay Full Inventory
+(Q)uit
+Option: g
+
+Enter Vehicle ID: TH2019S
+
+Vehicle ID: TH2019S
+Vehicle Year: 2019
+Vehicle Make: Toyota
+Vehicle Model: Highlander
+Vehicle Miles: 102454.23
+Vehicle Class: SUV
+Vehicle Price: $49500.99
+
+
+Please select an option below.
+(L)oad
+(S)ave
+(A)dd Car
+(R)emove Car
+(G)et Specific Car
+(Y)ear & Class Display
+(D)isplay Full Inventory
+(Q)uit
+Option: R
+
+Enter Vehicle ID to delete: TH2019S
+
+Vehicle Deleted
+
+Please select an option below.
+(L)oad
+(S)ave
+(A)dd Car
+(R)emove Car
+(G)et Specific Car
+(Y)ear & Class Display
+(D)isplay Full Inventory
+(Q)uit
+Option: Y
+
+Enter Vehicle Year: 2016
+Enter Vehicle Class: Car
+
+Vehicle ID   Year         Make       Model             Miles Class          Price
+FF2016C      2016         Ford       Fusion SE     150486.00 Car         15999.00
+VS2016C      2016         Volvo      S40            89450.00 Car         39499.95
+
+
+Please select an option below.
+(L)oad
+(S)ave
+(A)dd Car
+(R)emove Car
+(G)et Specific Car
+(Y)ear & Class Display
+(D)isplay Full Inventory
+(Q)uit
+Option: D
+
+Vehicle ID   Year         Make       Model             Miles Class          Price
+FF2016C      2016         Ford       Fusion SE     150486.00 Car         15999.00
+TT2019S      2019         Toyota     Tacoma        234723.15 SUV         99000.00
+VS2016C      2016         Volvo      S40            89450.00 Car         39499.95
+
+
+Please select an option below.
+(L)oad
+(S)ave
+(A)dd Car
+(R)emove Car
+(G)et Specific Car
+(Y)ear & Class Display
+(D)isplay Full Inventory
+(Q)uit
+Option: S
+
+Please type output file (ignore .txt): outputFile
+
+Inventory Saved
+
+Please select an option below.
+(L)oad
+(S)ave
+(A)dd Car
+(R)emove Car
+(G)et Specific Car
+(Y)ear & Class Display
+(D)isplay Full Inventory
+(Q)uit
+Option: q
+
+BUILD SUCCESSFUL (total time: 1 minute 44 seconds)

@@ -1,0 +1,46 @@
+run:
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: c
+
+
+Number to convert: 24
+Base to convet to (2-16): 4
+Converted Number (24 to base 4): 120
+
+
+
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: c
+
+
+Number to convert: 245157
+Base to convet to (2-16): 16
+Converted Number (245157 to base 16): 3BDA5
+
+
+
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: c
+
+
+Number to convert: 14
+Base to convet to (2-16): 2
+Converted Number (14 to base 2): 1110
+
+
+
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: q
+
+
+
+
+BUILD SUCCESSFUL (total time: 36 seconds)

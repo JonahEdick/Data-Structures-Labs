@@ -1,0 +1,84 @@
+run:
+Please select a container!
+(C)up
+c(O)ne
+(W)affle Cone
+
+Container Choice: g
+Please select a valid choice.
+(C)up
+c(O)ne
+(W)affle Cone
+
+Container Choice: a
+Please select a valid choice.
+(C)up
+c(O)ne
+(W)affle Cone
+
+Container Choice: w
+Would you like to change your container choicebefore we continue?
+Continue: y
+Please select a container!
+(C)up
+c(O)ne
+(W)affle Cone
+
+Container Choice: o
+Would you like to change your container choicebefore we continue?
+Continue: n
+Please Select An Option!
+Add (I)ce Cream
+Add (H)ot Toppings
+Add (C)andy
+Add (Q)uit
+i
+How many seconds of dispensing would you like: 10
+Please Select An Option!
+Add (I)ce Cream
+Add (H)ot Toppings
+Add (C)andy
+Add (Q)uit
+g
+Please select a valid choice.
+Please Select An Option!
+Add (I)ce Cream
+Add (H)ot Toppings
+Add (C)andy
+Add (Q)uit
+a
+Please select a valid choice.
+Please Select An Option!
+Add (I)ce Cream
+Add (H)ot Toppings
+Add (C)andy
+Add (Q)uit
+h
+How many seconds of dispensing would you like: 2
+Please Select An Option!
+Add (I)ce Cream
+Add (H)ot Toppings
+Add (C)andy
+Add (Q)uit
+c
+How many seconds of dispensing would you like: 1
+Please Select An Option!
+Add (I)ce Cream
+Add (H)ot Toppings
+Add (C)andy
+Add (Q)uit
+q
+Here is your reciept!
+Container Type: O
+Ice Cream Amount: 800.0
+Hot Topping Amount: 130.0
+Candy Amount: 47.0
+Total Amount: 977.0
+Sub Total: $9.00
+Tax: $0.72
+Total: $9.72
+
+Have A Wonderful Day!!!
+
+
+BUILD SUCCESSFUL (total time: 35 seconds)

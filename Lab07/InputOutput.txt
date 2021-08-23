@@ -1,0 +1,61 @@
+run:
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: c
+
+
+Number to convert: 669457
+Base to convet to (2-16): 16
+Converted Number (669457 to base 16): A3711
+
+
+
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: c
+
+
+Number to convert: -46541
+Base to convet to (2-16): 19
+Please choose valid base.
+Base to convet to (2-16): 12
+Converted Number (-46541 to base 12): -22B25
+
+
+
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: c
+
+
+Number to convert: -0
+Base to convet to (2-16): 2
+Converted Number (0 to base 2): 0
+
+
+
+
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: c
+
+
+Number to convert: 16
+Base to convet to (2-16): 16
+Converted Number (16 to base 16): 10
+
+
+
+What would you like to do?
+(C)onvert a number
+(Q)uit
+Choice: q
+
+
+
+
+BUILD SUCCESSFUL (total time: 1 minute 49 seconds)

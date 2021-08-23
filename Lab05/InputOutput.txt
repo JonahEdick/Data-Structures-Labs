@@ -1,0 +1,665 @@
+run:
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully Added Customer to Wait Line 1!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 2
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully Added Customer to Wait Line 2!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 3
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Wait Line 1 to Pay Line 1!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 2
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully Added Customer to Wait Line 2!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 4
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Wait Line 2 to Pay Line 2!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully Added Customer to Wait Line 1!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 2
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully Added Customer to Wait Line 2!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 1
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully Added Customer to Wait Line 1!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 4
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Wait Line 2 to Pay Line 2!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 5
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Pay Line 1 to Recieve Line!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 4
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Wait Line 2 to Pay Line 2!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 4
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Wait Line 2.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 3
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Wait Line 1 to Pay Line 1!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 3
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Wait Line 1 to Pay Line 1!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 5
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Pay Line 1 to Recieve Line!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 6
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Pay Line 2 to Recieve Line!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 7
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Customer Order 1 Completed!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 6
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Pay Line 2 to Recieve Line!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 5
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Pay Line 1 to Recieve Line!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 4
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Wait Line 2.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 3
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Wait Line 1.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 6
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Successfully moved customer from Pay Line 2 to Recieve Line!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 5
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Recieve Line is currently full.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 7
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Customer Order 2 Completed!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 7
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Customer Order 3 Completed!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 6
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Pay Line 2.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 5
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Pay Line 1.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 7
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Customer Order 4 Completed!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 7
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Customer Order 5 Completed!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 7
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Customer Order 6 Completed!
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 7
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There is no customer at the recieve window.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 3
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Wait Line 1.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 4
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Wait Line 2.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 5
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Pay Line 1.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: 6
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are no customers in Pay Line 2.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Poultry-Fil-B. Drive Thru Manager
+   Wait Lines (Add new customers to Wait Lines.)
+(1) Wait Line 1
+(2) Wait Line 2
+   Pay Lines (Move people from Wait Lines to Pay Lines.)
+(3) Pay Line 1
+(4) Pay Line 2
+   Recieve Lines (Move people from Pay Lines to Recieve Line.)
+(5) Recieve Line 1
+(6) Recieve Line 2
+   Recieve Window (Finish the current customer's order.)
+(7) Finish Current Order
+Process Choice: q
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+           Poultry-Fil-B. Daily Sales Report
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Average Customer Time:                             32191.17
+Average Wait Time:                                  7502.00
+Average Pay Time:                                  10915.00
+Average Recieve Time:                              13774.17
+Number of Customers Processed:                            6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Cust#    Wait Time   Pay Time    Recieve Time    Total Time
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    1         5721       9559           11787         27067
+    2        10118       3356           14801         28275
+    3         8004      15342           14704         38050
+    4         5330      14319           14444         34093
+    5         9897       6156           15815         31868
+    6         5942      16758           11094         33794
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+BUILD SUCCESSFUL (total time: 1 minute 6 seconds)

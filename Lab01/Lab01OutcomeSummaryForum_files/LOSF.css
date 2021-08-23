@@ -1,0 +1,91 @@
+@charset "UTF-8";
+/* CSS Document */
+/*
+@font-face
+	{font-family:Arial;
+	panose-1:2 11 6 4 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536859905 -1073711037 9 0 511 0;
+}
+	
+@font-face
+	{font-family:Times;
+	panose-1:2 0 5 0 0 0 0 0 0 0;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;
+}
+	
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:1;
+	mso-generic-font-family:roman;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:0 0 0 0 0 0;
+}
+
+@font-face
+	{font-family:"Arial Rounded MT Bold";
+	panose-1:2 15 7 4 3 5 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;
+}*/
+
+html {
+	width:8.5in;
+	height:11in;
+}
+
+body {
+	margin:32.0pt 32.0pt;
+}
+
+.heading {
+	align=center;
+	text-align:center;
+	font-size:24.0pt;
+	font-family:"Arial Rounded MT Bold",sans-serif;
+}
+	
+.subheading {
+	font-weight:bold;
+	font-size:16.0pt;
+	font-family:"Arial Rounded MT Bold",sans-serif;
+	margin-collapse:
+	margin-bottom:8.0pt;
+	clear:left;
+}
+	
+.bheading {
+	font-size:14.0pt;
+	font-family:"Arial Rounded MT Bold",sans-serif;
+	margin-left:12.5pt;
+}
+
+.plain {
+	font-family:"Arial Rounded MT Bold",sans-serif;
+	font-size:12.0pt;
+	border:none;
+	margin-bottom:8.0pt;
+}
+
+[type=text] {
+	border-bottom:thin black !important;
+}
+
+hr {
+	margin-bottom:8.0pt;
+	margin-top:8.0pt;
+}
+
+option {
+	font-weight:normal;
+	font-size:15px;
+}

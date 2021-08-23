@@ -1,0 +1,71 @@
+run:
+Please choose from the tasks below:
+(A) Add a Day
+(B) Modify a Day
+(C) Display a Day
+(D) Display a Snowfall Report
+(Q) Quit
+Task: 
+a
+Please Select a Month (1-12): 03
+Please Select a day (1-31): 01
+Please Select a Year (Greater than 0): 2021
+Snowfall Amount (In Inches): 2.1
+Please choose from the tasks below:
+(A) Add a Day
+(B) Modify a Day
+(C) Display a Day
+(D) Display a Snowfall Report
+(Q) Quit
+Task: 
+b
+Please Select a Month (1-12): 1
+Please Select a day (1-31): 5
+Please Select a Year (Greater than 0): 2021
+The date 1/5/2021 exists in the Snowfall Report.
+
+Please enter new Snowfall Amount: 4.9
+Please choose from the tasks below:
+(A) Add a Day
+(B) Modify a Day
+(C) Display a Day
+(D) Display a Snowfall Report
+(Q) Quit
+Task: 
+c
+Please Select a Month (1-12): 1
+Please Select a day (1-31): 5
+Please Select a Year (Greater than 0): 2021
+
+Date: 1/5/2021
+Snowfall Amount: 4.9 Inches
+
+
+Please choose from the tasks below:
+(A) Add a Day
+(B) Modify a Day
+(C) Display a Day
+(D) Display a Snowfall Report
+(Q) Quit
+Task: 
+d
+Please Select a Month (1-12): 1
+Please Select a Year (Greater than 0): 2020
+
+Date            Snowfall Amount (Inches)
+1/2/2020            1.8
+1/5/2020            4.5
+1/7/2020            8.9
+
+
+
+Please choose from the tasks below:
+(A) Add a Day
+(B) Modify a Day
+(C) Display a Day
+(D) Display a Snowfall Report
+(Q) Quit
+Task: 
+q
+BUILD SUCCESSFUL (total time: 1 minute 2 seconds)
+

@@ -1,0 +1,151 @@
+run:
+Select An Option Below
+(L) Load Orders
+(Q) Quit Program
+Selection: l
+
+Enter File To Load In (DO NOT INCLUDE .txt): March2021Orders
+
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: b
+
+Bill Display (Current Order In Memory)
+4   Kirsten         117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      4     1     0
+3   Jefferson       40238 Hyde Lake Rd.            Theresa    NY  13691   (530) 434-3314      0    15     7
+2   K.C.            72 Union Ave                   Amity      NY  11701   (315) 586-2823      0     3     5
+1   Jonah           117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      2     1     2
+
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: a
+
+Enter The Following Order Information
+Enter Name: Xavier
+Enter Address: 238 West Fifth St.
+Enter City: Oswego
+Enter State: NY
+Enter Zip Code: 13126
+Enter Phone Number: (530) 790-5075
+Number of Rasin Pies: 4
+Number of Twinkie Pies: 0
+Number of Nacho Pies: 2
+Is The Order Info Correct: y
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: b
+
+Bill Display (Current Order In Memory)
+5   Xavier          238 West Fifth St.             Oswego     NY  13126   (530) 790-5075      4     0     2
+4   Kirsten         117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      4     1     0
+3   Jefferson       40238 Hyde Lake Rd.            Theresa    NY  13691   (530) 434-3314      0    15     7
+2   K.C.            72 Union Ave                   Amity      NY  11701   (315) 586-2823      0     3     5
+1   Jonah           117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      2     1     2
+
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: d
+
+Current Order List.
+5   Xavier          238 West Fifth St.             Oswego     NY  13126   (530) 790-5075      4     0     2
+4   Kirsten         117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      4     1     0
+3   Jefferson       40238 Hyde Lake Rd.            Theresa    NY  13691   (530) 434-3314      0    15     7
+2   K.C.            72 Union Ave                   Amity      NY  11701   (315) 586-2823      0     3     5
+1   Jonah           117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      2     1     2
+Enter Order Number To Delete: 9
+Error- Order Not Found.
+
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: b
+
+Bill Display (Current Order In Memory)
+5   Xavier          238 West Fifth St.             Oswego     NY  13126   (530) 790-5075      4     0     2
+4   Kirsten         117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      4     1     0
+3   Jefferson       40238 Hyde Lake Rd.            Theresa    NY  13691   (530) 434-3314      0    15     7
+2   K.C.            72 Union Ave                   Amity      NY  11701   (315) 586-2823      0     3     5
+1   Jonah           117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      2     1     2
+
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: d
+
+Current Order List.
+5   Xavier          238 West Fifth St.             Oswego     NY  13126   (530) 790-5075      4     0     2
+4   Kirsten         117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      4     1     0
+3   Jefferson       40238 Hyde Lake Rd.            Theresa    NY  13691   (530) 434-3314      0    15     7
+2   K.C.            72 Union Ave                   Amity      NY  11701   (315) 586-2823      0     3     5
+1   Jonah           117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      2     1     2
+Enter Order Number To Delete: 4
+
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: b
+
+Bill Display (Current Order In Memory)
+5   Xavier          238 West Fifth St.             Oswego     NY  13126   (530) 790-5075      4     0     2
+3   Jefferson       40238 Hyde Lake Rd.            Theresa    NY  13691   (530) 434-3314      0    15     7
+2   K.C.            72 Union Ave                   Amity      NY  11701   (315) 586-2823      0     3     5
+1   Jonah           117 Flower Ave E.              Watertown  NY  13601   (315) 955-2725      2     1     2
+
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: s
+
+Enter File To Save To (DO NOT INCLUDE .txt): April2021Orders
+
+Select An Option Below
+(S) Save Orders
+(E) Empty Orders
+(A) Add Order
+(D) Delete Order
+(B) Bill Display
+(Q) Quit Program
+Selection: e
+
+Select An Option Below
+(L) Load Orders
+(Q) Quit Program
+Selection: q
+
+BUILD SUCCESSFUL (total time: 2 minutes 38 seconds)

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<!-- saved from url=(0065)http://250.jeffersonccit.com/250laboratoryoutcomesummaryform.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		
+		<title>CIS 250 Laboratory Outcome Summary Form</title>
+		<!--<base href="http://www.jeffersonccit.com/" target="_blank">--><base href="." target="_blank">
+		<link href="./Lab01OutcomeSummaryForum_files/LOSF.css" rel="stylesheet" type="text/css">
+	</head>
+
+<body>
+
+		<p class="heading">CIS 250 - Laboratory Outcome Summary</p>
+		<form>
+            <label for="stName" class="subheading">Your name:&nbsp;&nbsp;</label>
+            <input type="text" class="plain" name="stName" size="55" tabindex="1" required="">
+            <br>
+    
+            <label for="labNumber" class="subheading">Laboratory number (0 - 13):&nbsp;&nbsp;</label>
+    		<input type="number" class="plain" name="labNumber" min="0" max="13" value="0" size="3" tabindex="2" required="">
+            <br>
+    
+            <label for="lateness" class="subheading">This lab is:&nbsp;&nbsp;</label>
+            <select class="plain" name="lateness" size="1" tabindex="4" required="">
+  				<option value="onTime">On time.</option>
+  				<option value="lateOK">Late - first late submission - OK.</option>
+                <option value="lateHalfCredit">Late-not first submission-under three calendar days- HALF CREDIT.</option>
+  				<option value="tooLate">Late-not first submission-over three calendar days - NO CREDIT.</option>
+  			</select>
+            <hr>
+    
+            <p class="subheading">Completeness of submission:</p>
+    
+            <label for="codeComplete" class="bheading">Source code:&nbsp;&nbsp;</label>
+            <select class="plain" name="codeComplete" size="1" tabindex="5" required="">
+  				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="notRequired">Not required - make sure.</option>
+  			</select>
+            <br>
+            
+            <label for="outputComplete" class="bheading">Screen output:&nbsp;&nbsp;</label>
+            <select class="plain" name="outputComplete" size="1" tabindex="6" required="">
+  				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="notRequired">Not required - make sure.</option>
+  			</select>
+            <br>
+            
+            <label for="inputComplete" class="bheading">Keyboard input:&nbsp;&nbsp;</label>
+            <select class="plain" name="inputComplete" size="1" tabindex="7" required="">
+  				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="notRequired">Not required - make sure.</option>
+  			</select>
+            <br>
+            
+            <label for="filesComplete" class="bheading">Data files:&nbsp;&nbsp;</label>
+            <select class="plain" name="filesComplete" size="1" tabindex="8" required="">
+  				<option value="notApplicable">Not applicable - the program does not use files.</option>
+                <option value="yes">Yes - the ones the program reads from or writes to.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="notRequired">Not required - make sure.</option>
+  			</select>
+            <br>
+            
+            <hr>
+    
+            <label for="bbSubmission" class="subheading">Submission of code on Blackboard:&nbsp;&nbsp;</label>
+            <select class="plain" name="bbSubmission" size="1" tabindex="9" required="">
+				<option value="yes">Yes.</option>
+  				<option value="no">No - results in a 0 grade.</option>
+  			</select>
+
+            <hr>
+            
+            <label for="indented" class="subheading">Source code is properly indented:&nbsp;&nbsp;</label>
+            <select class="plain" name="indented" size="1" tabindex="10" required="">
+				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="no">Not sure - maybe I should ask.</option>
+  			</select>
+
+            <hr>
+    
+            <label for="spaced" class="subheading">Source code is properly spaced:&nbsp;&nbsp;</label>
+            <select class="plain" name="spaced" size="1" tabindex="11" required="">
+				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="no">Not sure - maybe I should ask.</option>
+  			</select>
+            
+            <hr>
+    
+            <label for="meaningful" class="subheading">Identifiers are meaningful/descriptive:&nbsp;&nbsp;</label>
+            <select class="plain" name="meaningful" size="1" tabindex="12" required="">
+				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="no">Not sure - maybe I should ask.</option>
+  			</select>
+    
+            <hr>
+    
+            <p class="subheading">Design quality:</p>
+    		
+    		<label for="modCohesive" class="bheading">Modules are cohesive:&nbsp;&nbsp;</label>
+            <select class="plain" name="modCohesive" size="1" tabindex="13" required="">
+				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="notRequired">Not required - make sure.</option>
+  			</select>
+            <br>
+            
+    		<label for="modCoupling" class="bheading">Modules are loosely coupled:&nbsp;&nbsp;</label>
+            <select class="plain" name="modCoupling" size="1" tabindex="14" required="">
+				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="notRequired">Not required - make sure.</option>
+  			</select>
+            <br>
+            
+            <label for="objEcapsulation" class="bheading">Objects are properly encapsulated:&nbsp;&nbsp;</label>
+            <select class="plain" name="objEcapsulation" size="1" tabindex="15" required="">
+				<option value="yes">Yes.</option>
+  				<option value="no">No - results in loss of points.</option>
+                <option value="notRequired">Not required - make sure.</option>
+  			</select>
+            
+            <hr>
+    
+            <label for="codeQuality" class="subheading">Code quality:&nbsp;&nbsp;</label>
+            <select class="plain" name="codeQuality" size="1" tabindex="16" required="">
+				<option value="cc">Compiles clean.</option>
+  				<option value="ccwr">Compiles clean with runtime errors (attach explanation).</option>
+                <option value="ccww">Compiles with warnings (attach warnings AND explanation).</option>
+                <option value="ccwe">Compiles with errors (attach errors AND explanation).</option>
+  			</select>
+            
+            <hr>
+    
+            <label for="output" class="subheading">Output:&nbsp;&nbsp;</label>
+            <select class="plain" name="output" size="1" tabindex="17" required="">
+				<option value="tc">Totally correct.</option>
+  				<option value="pc">Partially correct (attach output AND explanation).</option>
+                <option value="none">No output (attach errors/warnings AND explanation).</option>
+  			</select>
+            <br>
+            
+            <button onclick="window.print();return false;" tabindex="18">Print</button>
+	
+
+
+</form></body></html>
